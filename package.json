@@ -1,0 +1,15 @@
+{
+  "name": "brainfuk",
+  "version": "2022.100.1",
+  "description": "A Brainf*** Interpreter",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 'ERROR: No test specified'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "REPO_URL_HERE"
+  },
+  "author": "347Online",
+  "license": "ISC"
+}
